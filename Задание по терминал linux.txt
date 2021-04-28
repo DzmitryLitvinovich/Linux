@@ -1,0 +1,21 @@
+1) Посмотреть где я - pwd
+2) Создать папку - mkdir Terminal
+3) Зайти в папку - cd Terminal
+4) Создать 3 папки - mkdir First Second Third
+5) Зайти в любоую папку - cd First
+6) Создать 5 файлов (3 txt, 2 json) - touch File1.txt File2.txt File3.txt File4.json File5.json
+7) Создать 3 папки - mkdir First Second Third
+8. Вывести список содержимого папки - ls -la
+9) + Открыть любой txt файл - vim File1.txt
+10) + написать туда что-нибудь, любой текст - i Текст
+11) + сохранить и выйти - ESC :wq
+12) Выйти из папки на уровень выше - cd ..
+13) переместить любые 2 файла, которые вы создали, в любую другую папку -  mv /c/Users/lenovo/CourseQA/Terminal/First/File1.txt /c/Users/lenovo/CourseQA/Terminal/First/File2.txt /c/Users/lenovo/CourseQA/Terminal/Third
+14) скопировать любые 2 файла, которые вы создали, в любую другую папку - cp /c/Users/lenovo/CourseQA/Terminal/Third/*.txt /c/Users/lenovo/CourseQA/Terminal/First
+15) Найти файл по имени - find File1.txt
+16) просмотреть содержимое в реальном временb - cat File1.txt
+(команда grep) изучите как она работает - grep ESC File1.txt
+17) вывести несколько первых строк из текстового файла - head -n3 File1.txt
+18) вывести несколько последних строк из текстового файла - tail -n3 File1.txt
+19) просмотреть содержимое длинного файла (команда less) изучите как она работает - less File1.txt
+20) вывести дату и время - date

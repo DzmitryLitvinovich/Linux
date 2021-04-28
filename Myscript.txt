@@ -1,0 +1,7 @@
+cd Second
+mkdir First Second Third
+cd First
+touch File1.txt File2.txt File3.txt File4.json File5.json
+mkdir First Second Third
+ls -la
+mv /c/Users/lenovo/CourseQA/Terminal/Second/First/File1.txt /c/Users/lenovo/CourseQA/Terminal/Second/First/File2.txt /c/Users/lenovo/CourseQA/Terminal/Second/Second
