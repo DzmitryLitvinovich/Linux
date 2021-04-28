@@ -10,8 +10,8 @@
 10) + написать туда что-нибудь, любой текст - i Текст
 11) + сохранить и выйти - ESC :wq
 12) Выйти из папки на уровень выше - cd ..
-13) переместить любые 2 файла, которые вы создали, в любую другую папку -  mv /c/Users/lenovo/CourseQA/Terminal/First/File1.txt /c/Users/lenovo/CourseQA/Terminal/First/File2.txt /c/Users/lenovo/CourseQA/Terminal/Third
-14) скопировать любые 2 файла, которые вы создали, в любую другую папку - cp /c/Users/lenovo/CourseQA/Terminal/Third/*.txt /c/Users/lenovo/CourseQA/Terminal/First
+13) переместить любые 2 файла, которые вы создали, в любую другую папку - mv ~/CourseQA/Terminal/First/File1.txt ~/CourseQA/Terminal/First/File2.txt ~/CourseQA/Terminal/Third
+14) скопировать любые 2 файла, которые вы создали, в любую другую папку - cp ~/CourseQA/Terminal/Third/*.txt ~/CourseQA/Terminal/First
 15) Найти файл по имени - find File1.txt
 16) просмотреть содержимое в реальном временb - cat File1.txt
 (команда grep) изучите как она работает - grep ESC File1.txt
